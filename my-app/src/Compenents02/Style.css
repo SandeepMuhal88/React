@@ -1,0 +1,16 @@
+.Box{
+    color: rgb(119, 32, 32);
+    background-color: aqua;
+}
+
+button{
+    color: rgb(218, 28, 28);
+    gap: 80px;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(3, 3, 3);
+}
+button:hover{
+    color: rgb(52, 15, 221);
+    background-color: rgb(19, 224, 224);
+    border-radius: 15%;
+}
