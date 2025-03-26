@@ -1,0 +1,50 @@
+div{
+    background-color: aqua;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+}
+.lorem{
+    background-color: rgb(150, 0, 0);
+}
+div{
+    background-color:blue;
+}
+.XYZ{
+    background-color: green;
+}
+b{
+    background-color: yellow;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    border: 2px solid black;
+}
+#Number{
+    background-color: orange;
+}
+#ID-Number{
+    background-color: purple;
+}
+h1{
+    background-color: red;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    text-decoration: underline;
+}
+.Header{
+    background-color: white;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    text-decoration: underline;
+}

@@ -14,7 +14,7 @@
 /* rgba */
 
 p{
-    color: rgba(0,0,255,0.5);
+    color: rgba(0, 255, 106, 0.486);
     font-size: 20px;
     font-weight: bold;
 }
@@ -22,13 +22,13 @@ p{
 
 /* hex code */
 body{
-    color: #0000ff;
+    color: hsla(240, 35%, 44%, 0.541);
     font-size: 20px;
     font-weight: bold;
 }
 
 .list{
-    color: #0000ff;
+    color: #ff1100;
     font-size: 20px;
     font-weight: bold;
 };
